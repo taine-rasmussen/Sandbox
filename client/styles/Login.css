@@ -1,0 +1,19 @@
+.login-container {
+  display: flex;
+}
+
+.login-form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.login-form input {
+  margin: 5px 0px;
+  border: 0px;
+  border-bottom: 1px solid black;
+}
+
+.login-form button {
+  margin: 5px 0px;
+}
